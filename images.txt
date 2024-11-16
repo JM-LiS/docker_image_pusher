@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 #nginx
 nginx:1.26-alpine-perl
+#redis
+redis:6.2-alpine3.20
